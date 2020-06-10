@@ -1,0 +1,30 @@
+[
+  {
+    "name": "santander",
+    "creditCard": "88 **** 9448",
+    "amount": 12934.98,
+    "logo": "https://1000marcas.net/wp-content/uploads/2019/11/Santander-simbolo.jpg?_gl=1*ekblox*_ga*YW1wLXZiem9YVUU4MXFCNEtpQWZsY2NSbkRGQnJBSURmZ2tmNERuUGFvbjFjQnB0Zl9HaVlwV1BMVE5zUDJSTmcyQmk",
+    "id": 123
+  },
+  {
+    "name": "CityBank",
+    "creditCard": "88 **** 9448",
+    "amount": 1294.98,
+    "logo": "https://1000marcas.net/wp-content/uploads/2019/11/Santander-simbolo.jpg?_gl=1*ekblox*_ga*YW1wLXZiem9YVUU4MXFCNEtpQWZsY2NSbkRGQnJBSURmZ2tmNERuUGFvbjFjQnB0Zl9HaVlwV1BMVE5zUDJSTmcyQmk",
+    "id": 1234
+  },
+  {
+    "name": "Deutch bank",
+    "creditCard": "88 **** 9448",
+    "amount": 129034.98,
+    "logo": "https://1000marcas.net/wp-content/uploads/2019/11/Santander-simbolo.jpg?_gl=1*ekblox*_ga*YW1wLXZiem9YVUU4MXFCNEtpQWZsY2NSbkRGQnJBSURmZ2tmNERuUGFvbjFjQnB0Zl9HaVlwV1BMVE5zUDJSTmcyQmk",
+    "id": 1233
+  },
+  {
+    "name": "Credit agricole",
+    "creditCard": "88 **** 9448",
+    "amount": 1294.98,
+    "logo": "https://1000marcas.net/wp-content/uploads/2019/11/Santander-simbolo.jpg?_gl=1*ekblox*_ga*YW1wLXZiem9YVUU4MXFCNEtpQWZsY2NSbkRGQnJBSURmZ2tmNERuUGFvbjFjQnB0Zl9HaVlwV1BMVE5zUDJSTmcyQmk",
+    "id": 1236
+  }
+]

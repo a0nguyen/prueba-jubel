@@ -1,0 +1,31 @@
+@import "../helpers.scss";
+.bank {
+  background-color: white;
+  border-radius: 5px;
+  svg {
+    color: lighten($gray-text, 20%);
+  }
+  .name {
+    font-weight: 700;
+    text-transform: capitalize;
+  }
+  .number {
+    color: $gray-text;
+  }
+  .logo {
+    img {
+      width: 50px;
+    }
+  }
+  .amount {
+    .decimal {
+      color: lighten(black, 40%);
+    }
+    .dollar {
+      color: darken($gray-text, 5%);
+    }
+  }
+  .menu {
+    width: 50px;
+  }
+}
